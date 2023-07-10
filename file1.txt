@@ -1,3 +1,4 @@
 Hello_Naga
 add changes for Jenkin.
 added some text and pusing to GitHUb
+manually github
